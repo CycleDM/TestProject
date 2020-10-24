@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main()
+void main()
 {
 	int num[8] = { 6, 7, 8, 1, 3, 4, 5, 2 };
 	int temp;
@@ -23,5 +23,5 @@ int main()
 	
 	rewind(stdin);
 	getchar();
-	return 0;
+	return;
 }
