@@ -22,7 +22,7 @@ void main()
 		}
 		printf_s("%d ", num[i]);
 	}
-	
+
 	rewind(stdin);
 	getchar();
 	return;
