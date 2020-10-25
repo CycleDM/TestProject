@@ -4,7 +4,7 @@
 void main()
 {
 	int num[8] = { 411, 305, 353, 341, 354, 44, 512, 22 };
-	int temp;
+  int temp;
 
 	int length = sizeof(num) / sizeof(num[0]);
 	for (int i = 0; i < length; i++)
