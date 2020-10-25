@@ -10,7 +10,8 @@ void main()
 	int temp;
 	int a, b, c;
 	int a = 1;
-	c = 123;
+  c = 123;
+	b = 2;
 
 	int length = sizeof(num) / sizeof(num[0]);
 	for (int i = 0; i < length; i++)
