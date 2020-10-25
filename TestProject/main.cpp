@@ -3,7 +3,7 @@
 
 void main()
 {
-	int num[8] = { 4, 5, 33, 31, 354, 44, 52, 22 };
+	int num[8] = { 44, 35, 39, 31, 54, 44, 52, 22 };
 	int temp;
 
 	int length = sizeof(num) / sizeof(num[0]);
